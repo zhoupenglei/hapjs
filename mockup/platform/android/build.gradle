@@ -16,7 +16,7 @@ buildscript {
     }
     dependencies {
         // https://github.com/spotbugs/spotbugs-gradle-plugin/issues/147
-        classpath 'com.android.tools.build:gradle:3.4.2'
+        classpath 'com.android.tools.build:gradle:3.5.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath 'com.moowork.gradle:gradle-node-plugin:1.1.1'
         classpath "gradle.plugin.com.github.spotbugs:spotbugs-gradle-plugin:2.0.0"
